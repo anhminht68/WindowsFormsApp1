@@ -18,7 +18,7 @@ namespace WindowsFormsApp1
         }
 
         public void Form1_Load(object sender, EventArgs e) {
-            Console.WriteLine("siuu1123");
+            Console.WriteLine("Hello World");
             //dalskdjlasd
         }
     }
